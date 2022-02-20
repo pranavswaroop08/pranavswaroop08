@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm pranavswaroop08</h1>
+<h1 align="center">Hi, I'm pranavswaroop08
+  ![Hi](https://user-images.githubusercontent.com/67774662/154840196-51c29058-701c-4a7b-8a7c-bb9889030a3a.gif)
+</h1>
 <h3 align="center">I am an Enthusiastic Developer and an Intermediate Hackerker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavswaroop08&label=Profile%20views&color=0e75b6&style=flat" alt="pranavswaroop08" /> </p>
