@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm pranavswaroop08</h1>
+<h1 align="center">Hi, I'm pranavswaroop08</h1><img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h3 align="center">I am an Enthusiastic Developer and an Intermediate Hackerker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavswaroop08&label=Profile%20views&color=0e75b6&style=flat" alt="pranavswaroop08" /> </p>
