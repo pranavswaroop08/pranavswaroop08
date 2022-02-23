@@ -1,4 +1,6 @@
-## Hello, I'm [pranav swaroop](https://github.com/pranavswaroop08)<img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src = "https://user-images.githubusercontent.com/67774662/155334912-e05887d5-6c46-4a38-9d1a-3a1a2b7a19b2.gif"></img>
+
+
 <h3 align="left">I am an Enthusiastic Developer and an Intermediate Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavswaroop08&label=Profile%20views&color=0e75b6&style=flat" alt="pranavswaroop08" /> </p>
@@ -9,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/swaroop op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop op" height="30" width="40" /></a>
-<a href="https://twitter.com/swaroop_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaroop_08" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCiEiJwfQCUCr_M_ZtiTJvSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop op" height="30" width="40" /></a>
+<a href="https://twitter.com/08_swaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaroop_08" height="30" width="40" /></a>
 <a href="https://instagram.com/swaroop_._08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_._08" height="30" width="40" /></a>
 
 </p>
