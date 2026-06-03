@@ -39,10 +39,6 @@ I am an **Enthusiastic Developer** and an **Intermediate Hacker** who loves expl
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavswaroop08&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavswaroop08&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavswaroop08&theme=tokyonight" alt="GitHub Streak" width="100%"/>
